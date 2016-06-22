@@ -16,3 +16,8 @@ Esta planilha foi parte de um projeto na Rede de Projetos, do qual foi finalista
 
 * [Link direto](https://github.com/edilqueirozdearaujo/planilha-do-monitor/raw/master/Planilha%20do%20Monitor.ods)
 * [Baixar via Google Drive](https://drive.google.com/open?id=0B4RTTAL1BmqpNldTWE5Jc0xEUjg)
+ 
+
+## Manual
+
+Antigamente, na época então chamado de "Projeto Cadastro Offline", esxistia um tutorial. Como pouca coisa mudou, você pode se orientar por este guia de instruções. [Clique aquipara ver ou baixar (está no Google Drive)](https://drive.google.com/open?id=0B4RTTAL1BmqpZTNjYTAzOTItMmM2OC00MGNiLWJhN2EtOGEwZTA0ODE2ZGE1).
